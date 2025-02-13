@@ -1,1 +1,1 @@
-выполнение скриптов
+ApplicationLaunch
